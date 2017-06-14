@@ -1,0 +1,553 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "title": "Planprogram för Brunnsparken",
+        "type": "Planprogram",
+        "description": "Syftet med planprogrammet är att på en övergripande nivå utreda i vilken riktning som Brunnsparken kan utvecklas i framtiden.",
+        "iconColor": "green",
+        "marker-symbol": "",
+        "iconType": "",
+        "status": "Samråd 7 mar–30 sep 2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.169426202774046,
+          59.24501681946715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Detaljplan för del av fastigheterna Almby 11:202 och 11:16",
+        "type": "Detaljplan",
+        "description": "Planen syftar till att ge byggrätter för studentbostäder, förskola, mindre verksamhet samt öppna Vallgatan för biltrafik.",
+        "iconColor": "green",
+        "iconType": "",
+        "status": "Granskning 4 apr–2 maj 2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.24903416633606,
+          59.25628946962878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Planprogram för Aspholmen/Nasta",
+        "type": "Planprogram",
+        "description": "Syftet med planprogrammet är att utreda förutsättningarna för en utveckling av stadsdelen som plats för arbetsplatser, verksamheter, service, handel, bostäder, rekreation och mötesplatser. Målet med planprogrammets är att skapa ett tydligt underlag för kommunens fortsatta planarbete och visa på en möjlig utveckling och ställningstaganden inom stadsdelen Aspholmen/Nasta.",
+        "iconColor": "green",
+        "iconType": "",
+        "status": "Samråd 14 mar–31 maj 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.17709732055664,
+          59.258861634721114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Detaljplan för Kv. Eldskriften",
+        "type": "Detaljplan",
+        "description": "Planens syfte är att göra det möjligt att bygga en drivmedelsanläggning som inkluderar biltvätt, dagligvaruförsäljning och snabbmatsrestaurang.",
+        "iconColor": "green",
+        "iconType": "",
+        "status": "Laga kraft 14 jul 2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.202975273132326,
+          59.29234238373156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Detaljplan för fastigheten Olaus Petri 3:84 m fl ",
+        "type": "Detaljplan",
+        "description": "Syftet med planen är att planlägga mark för verksamheter, kontor samt ställverk, med särskild hänsyn till Natura 2000.",
+        "iconColor": "green",
+        "iconType": "",
+        "status": "Samråd 21 nov 2016–6 jan 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.250740051269533,
+          59.30283807693711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Planprogram för Bista-Pilängens industriområde",
+        "type": "Planprogram",
+        "description": "Syftet med planprogrammet är att ta fram och summera frågeställningar som ska ligga till grund för fortsatta diskussioner och eventuell planändring om: hur Bista-Pilängens industriområdet kan exploateras och hur befintliga verksamheter ska kunna utvecklas samtidigt som skyddet för vattentäkten ska stärkas.",
+        "iconColor": "green",
+        "iconType": "",
+        "status": "Antagen 30 jan 2009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.148215293884276,
+          59.25517608423484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Detaljplan för Björkstammen 2 och del av Almby 11:199",
+        "description": "Syftet med planen är att möjliggöra utökad förskoleverksamhet på fastigheten Björkstammen 2 med en omfattning som platsens förutsättningar tillåter för en god förskolemiljö.",
+        "type": "Detaljplan",
+        "iconColor": "green",
+        "iconType": "",
+        "status": "Samråd 30 mar–10 maj 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.239109992980957,
+          59.23936537808308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Detaljplan för del av Almby 11:199",
+        "description": "Syftet med planen är att ändra markanvändningen från parkmark till odling för att möjliggöra kolonilotter inom planområdet.",
+        "type": "Detaljplan",
+        "iconColor": "green",
+        "marker-color": "#000000",
+        "iconType": "",
+        "status": "Laga kraft 25 nov 2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.241684913635252,
+          59.23494233472873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Detaljplan för fastigheten Nikolai 3:106 (vid Gustavsviks golfbana)",
+        "type": "Detaljplan",
+        "description": "Syftet med denna detaljplan är att återigen möjliggöra golfverksamhet för att området ska kunna anläggas med en ny bansträckning då den östra delen av golfbanan behövs för bostadsbebyggelse. ",
+        "iconColor": "green",
+        "iconType": "",
+        "status": "Laga kraft 27 apr 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.199928283691404,
+          59.24576295920091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "iconColor": "green",
+        "iconType": "",
+        "title": "Detaljplan för fastigheten Graningesjön 4 m.fl.",
+        "type": "Detaljplan",
+        "description": "Syftet med planen är att förändra markanvändning i planområdet från industriändamål till bostadsändamål och möjliggöra för uppförande av flerbostadshus motsvarande ca 140 bostäder. ",
+        "status": "Samråd 9 jan–20 feb 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.231513977050781,
+          59.25815965583514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Detaljplan för del av Nikolai 3:63 m.fl.",
+        "type": "Detaljplan",
+        "description": "Detaljplanen för Södra Ladugårdsängen antogs 2009. Framtagandet av planen initierades av att Örebro under 2010 arrangerade O-ringen och därför byggdes en tillfällig ”O-ringenstad” på platsen. Samtidigt anlades ett grovmaskigt gatu- och vatten- och avloppsledningsnät som finns kvar idag. Detaljplanen, som är generell och flexibel, har en indelning av gator och kvarter som är alltför storskalig för att kunna resultera i en fungerande stadsmiljö.",
+        "iconColor": "green",
+        "iconType": "",
+        "status": "Laga kraft 16 januari 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.20258903503418,
+          59.252609126109895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "iconType": "",
+        "title": "Detaljplan för fastigheten Olaus Petri 3:55",
+        "type": "Detaljplan",
+        "description": "Planens syfte är att minska andelen prickmark för att tillåta befintliga förråds- och garagebyggnader på idrottsanläggningen, samt möjliggöra framtida utbyggnad för verksamheten.",
+        "iconColor": "green",
+        "marker-symbol": "",
+        "status": "Samråd 1 dec 2016–16 jan 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.231717824935911,
+          59.29133975511778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Detaljplan för fastigheterna Norra Bro 15:7 m.fl.",
+        "type": "Detaljplan",
+        "description": "Syftet med detaljplanen är att skapa förutsättningar för blandad bostadsbebyggelse i form av villor, parhus och radhus. Planförslaget möjliggör för 60‑80 bostäder.",
+        "iconColor": "green",
+        "iconType": "",
+        "status": "Granskning 24 april–12 maj 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.240172147750854,
+          59.225287571828005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ändring av detaljplan 1880K-A308, del av fastigheterna Signalen 3 och 8 Atlas Copco",
+        "type": "Detaljplan",
+        "description": "Syftet med detaljplaneändringen är att utöka tillåten höjd på bebyggelse för en del av Atlas Copcos verksamhetsområde.",
+        "iconColor": "green",
+        "marker-symbol": "",
+        "iconType": "",
+        "status": "Laga kraft 23 februari 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.199820995330809,
+          59.261718758936254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iconColor": "green",
+        "iconType": "",
+        "title": "Detaljplan för fastigheten Handtaget 8 m.fl.",
+        "description": "Syftet med planen är att möjliggöra för sex radhus inom fastigheten Handtaget 8.",
+        "marker-symbol": "",
+        "status": "Granskning 15 maj–12 juni 2017",
+        "type": "Detaljplan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2315890789032,
+          59.28526856408681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Detaljplan för Ånsta 20:96 och Nikolai 3:36",
+        "type": "Detaljplan",
+        "description": "Syftet med planen är att möjliggöra en ny trafikkoppling mellan Aspholmen och Örnsro över Södra Infartsleden. Planen syftar även till att möjliggöra en drivmedelsstation.",
+        "iconColor": "green",
+        "iconType": "",
+        "status": "Samråd 7 mars–18 april 2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.185433626174925,
+          59.26426309781622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Detaljplan för del av fastigheten Längbro 2:77",
+        "type": "Detaljplan",
+        "description": "Syftet med planen är att möjliggöra byggnation av bostäder, handel, skola och förskola på tidigare oexploaterad mark.",
+        "iconColor": "green",
+        "status": "Samråd 5 juli–1 september 2016."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.151047706604004,
+          59.29315323116897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Detaljplan för Emån 1 och Byälven 1",
+        "type": "Detaljplan",
+        "description": "Syftet med planen är att justera gällande detaljplan för att bättre motsvara dagens utformning av bostadsområdet.",
+        "iconColor": "green",
+        "status": "Samråd 29 mars–25 april 2016."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.184864997863768,
+          59.28970151693508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Detaljplan för del av fastigheten Almby 11:148",
+        "type": "Detaljplan",
+        "description": "Syftet med detaljplanen är att ge möjligheten att uppföra bostäder, förskolor och mindre verksamheter.",
+        "iconColor": "green",
+        "status": "Laga kraft 16 januari 2017",
+        "iconType": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.228456258773802,
+          59.251440767044855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Utvecklingsförslag för Varberga och Ekersvägen",
+        "type": "Utvecklingsförslag",
+        "description": "Utvecklingsförslag till den kommande detaljplaneringen av Varberga och Ekersvägen",
+        "iconColor": "green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.177440643310547,
+          59.28886866996494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Detaljplan för kvarteret Gasklockan 2 m.fl.",
+        "type": "Detaljplan",
+        "description": "Syftet med planen är att planlägga första etappen i omvandlingen av kvarteret Gasklockan vid Österplan från ett industrikvarter till en blandad bebyggelse med bostäder, kontor, handel, förskola och mindre verksamheter.",
+        "iconColor": "green",
+        "status": "Laga kraft den 29 maj 2017",
+        "url": "http://www.orebro.se/bygga-bo--trafik/aktuella-byggprojekt/kommunala-byggprojekt/lista/2017-04-19-cv-omradet.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.23628830909729,
+          59.267086872152525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Detaljplan för Nikolai 3:41 m.fl. Örnsro IP",
+        "type": "Detaljplan",
+        "description": "Syftet med planen är att möjliggöra byggnation av cirka 200 bostäder samt anlägga en allmän park längs gång- och cykelvägen invid Svartåns södra strand.",
+        "iconColor": "green",
+        "status": "Samråd 5 juni–28 augusti 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.188770294189453,
+          59.26729521904467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Detaljplan för fastigheten Lagerhuset 4",
+        "type": "Detaljplan",
+        "description": "Syftet med detaljplanen är att planlägga för ett nytt flerbostadshus i åtta våningar om cirka 56 bostäder kombinerat med kontor och centrumverksamheter",
+        "iconColor": "green",
+        "marker-symbol": "",
+        "iconType": "",
+        "status": "Samråd 24 maj–5 juli 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.215924978256226,
+          59.27883454999141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CV-området",
+        "type": "Planprogram",
+        "description": "Vi håller nu på att ta fram ett planprogram. Planprogrammet kommer troligen att skickas ut på samråd hösten 2017. Detaljplaneläggning av en första etapp kan inledas när planprogrammet är antaget.",
+        "iconColor": "green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.232715606689451,
+          59.27686683612376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Planprogram för Södra Ladugårdsskogen",
+        "type": "Planprogram",
+        "description": "Planområdet omfattar ett ca 155 hektar stort område som ligger söder och öster om Adolfsberg. I nordost gränsar området till Glomman, i sydväst möter det järnvägen.",
+        "iconColor": "green",
+        "marker-symbol": "",
+        "status": "Samrådet kring förslag till planprogram pågick mellan 14 mars – 31 maj 2017",
+        "url": "http://www.orebro.se/bygga-bo--trafik/stadsutveckling--planering/aktuella-detaljplaner--planprogram/lista/planprogram/2017-02-23-planprogram-for-sodra-ladugardsskogen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.195894241333006,
+          59.232264084269026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Detaljplan för fastigheten Förvaringsfacket 3 m.fl.",
+        "type": "Detaljplan",
+        "description": "Syftet med planen är att utöka byggrätten från 20 procent till 25 procent av fastighetsarean för fastigheterna inom planområdet och därigenom anpassa detaljplanen efter rådande förhållanden.",
+        "iconColor": "green",
+        "status": "Antagen av Byggnadsnämnden 1 mars 2017. Vann laga kraft den 30 mars 2017."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.239882469177244,
+          59.31426681057296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Detaljplan för Olaus Petri 3:234, 3:239, 3:119 m.fl.",
+        "type": "Detaljplan",
+        "description": "Detaljplanens syfte är att möjliggöra kontorsbyggnader vid korsningen Östra Bangatan och Östra Nobelgatan",
+        "iconColor": "green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.213940143585205,
+          59.28005677739514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Planprogram för Pappersbruket 41 m.fl.",
+        "type": "Planprogram",
+        "description": "Planprogrammet syftar till att belysa de problemställningar som finns i anslutning till fastigheten Pappersbruket 41 m.fl. även kallad Kartongbruket. ",
+        "iconColor": "green",
+        "status": "Antaget Programnämnd samhällsbyggnad 2014-03-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.249441862106323,
+          59.27022838871021
+        ]
+      }
+    }
+  ]
+}
