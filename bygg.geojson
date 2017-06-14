@@ -1,0 +1,459 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Karlsdalsallén",
+        "description": "Vecka 23 startar ombyggnationen av Stenbackevägen och Karlsdalsallén. De byggs om för att anpassas till den nya bebyggelsen som växer fram i området.",
+        "type": "Gatuarbete",
+        "effect": "Gatorna kommer att vara öppna för trafik under hela byggtiden.",
+        "time": "juni-juli 2017",
+        "status": "",
+        "owner": "Örebro kommun",
+        "url": "http://www.orebro.se",
+        "iconColor": "red_solid",
+        "iconType": "fa-warning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.210013389587402,
+          59.252403431996186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rudbecksgatan",
+        "description": "Projektet innebär att Rudbecksgatan, sträckan mellan Hagmarksgatan och Almbyplan, kommer att byggas om till en grönare gata med lugnare trafiktempo",
+        "effect": "Under tiden som byggnationen pågår är Rudbecksgatan avstängd denna sträcka! Omledning av allmän trafik kommer ske via Universitetsallén/Hagmarksgatan och detta kommer vara skyltat.",
+        "type": "Gatuarbete",
+        "iconColor": "red_solid",
+        "iconType": "fa-warning",
+        "time": "x"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.236878395080566,
+          59.262502918114436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Trädgårdsgatan",
+        "effect": "Från lunchtid 7 juni till september är Trädgårdsgatan, mellan Stortorget och Rudbecksgatan, avstängd för ombyggnation. Endast ambulans och gående kommer att kunna passera genom arbetsområdet, övrig trafik hänvisas till andra gator.",
+        "description": "Under 2016–2017 bygger vi om Trädgårdsgatan-Alnängsgatan. Målet är en grönskande stadsgata, med fordonstrafik i lägre hastighet och god framkomlighet för gång- och cykeltrafik. Busstrafik och utryckningsfordon bibehåller god framkomlighet.",
+        "iconColor": "red_solid",
+        "iconType": "fa-warning",
+        "time": "x",
+        "type": "Byggprojekt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.21681547164917,
+          59.26992685955189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ny vattenreservoar",
+        "description": "För att säkra stadens vattenförsörjning bygger Örebro kommun en ny vattenreservoar i Adolfsberg, på en höjd i korsningen Glomman/Södra vägen. Bygget startar under 2017 och den nya vattenreservoaren beräknas stå klar 2018.",
+        "type": "Byggprojekt",
+        "owner": "Örebro kommun",
+        "iconColor": "red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.197857618331907,
+          59.243519004389114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kulturkvarteret",
+        "description": "I kvarteret Klockaregården, området i anslutning till Konserthuset, byggs Kulturkvarteret för upplevelser, lärande och möten – för alla, men med ett särskilt fokus på barn och unga.",
+        "type": "Byggprojekt",
+        "effect": "Byggarbete runt parkeringsplatsen vid Konserthuset Anledningen är att vi utför förberedande arbete inför det kommande Kulturkvarteret, som har planerad byggstart sommaren 2018.",
+        "iconColor": "red_solid",
+        "iconType": "fa-warning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.207628905773163,
+          59.27216907613833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "",
+        "title": "Servicebyggnad till skateparken i Drottningparken",
+        "description": "Byggnation av servicehus samt offentliga toaletter vid Örebro skatepark i Drottningparken. Huset omfattar en huskropp för verksamheten som bedrivs av Örebroskateboard och en huskropp som innehåller offentliga toaletter till parken.",
+        "type": "Byggprojekt",
+        "effect": "",
+        "time": "November 2016-april 2017.",
+        "owner": "Betongresurs AB.",
+        "iconColor": "red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.201376676559448,
+          59.266198642158066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Västra Bangatan, cykelparkering och servicestation för cykel",
+        "description": "De befintliga cykelparkeringarna sydväst om resecentum (både strax söder och norr om Olaitunneln) ska bli säkrare och mer användarvänliga.",
+        "type": "Byggprojekt",
+        "time": "Preliminär byggstart 2017.",
+        "owner": "Örebro kommun",
+        "iconColor": "red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.208924412727356,
+          59.27636803821996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Olaigatan, trafiksäker passage för cyklister och gående",
+        "description": "Projektet avser att bygga en trafiksäker passage för cyklister och gående över Olaigatan, mellan Kanslibron och Karolinska gymnasiet.",
+        "type": "Trafikprojekt",
+        "status": "Projektet är i planeringsskedet",
+        "owner": "Örebro kommun",
+        "url": "",
+        "iconColor": "red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.21690398454666,
+          59.27475237616722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glanshammar-Örebro, gång- och cykelbana",
+        "description": "Utbyggnad av gång- och cykelväg från Örebro till Glanshammar med hastighetssänkande åtgärd i Glanshammars tätort.",
+        "type": "Trafikprojekt",
+        "status": "Projektet är i planeringsskedet",
+        "owner": "Trafikverket",
+        "iconColor": "red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.38506507873535,
+          59.3165937053929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lidvägen, återställning efter nybyggnad av dagvattenserviser",
+        "description": "Återställning efter nybyggnad av dagvattenserviser.",
+        "type": "Byggprojekt",
+        "owner": "Örebro kommun",
+        "url": "",
+        "iconColor": "red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.223649740219116,
+          59.29107950515696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vivallaringen, ny passage samt förlängning av gång- och cykelbana",
+        "description": "Örebro kommun bygger en ny passage samt förlängning av gång- och cykelbana från Lundby till Vivallaringen, Örebro.",
+        "type": "Byggprojekt",
+        "effect": "En del av Vivallaringen är avstängd under byggtiden.",
+        "time": "Byggstart vecka 16, planerat klart vecka 23 2017.",
+        "owner": "Örebro kommun",
+        "iconColor": "red_solid",
+        "iconType": "fa-warning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.183470249176024,
+          59.304059442578634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mineralgatan, hastighetssäkring och bussgatan öppnas för trafik",
+        "description": "Bussgatan ska öppnas för allmän trafik och den ska hastighetssäkras med busskuddar och två avsmalningar vid två passager. Bussgatan kommer även att få ny belysning.",
+        "type": "Gatuarbete",
+        "effect": "",
+        "time": "Byggstart vecka 42. Gatuarbetena är klara och färdigställandet av gång- och cykelbanan kommer att ske senast augusti 2017.",
+        "owner": "Örebro kommun",
+        "url": "",
+        "iconColor": "red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1836097240448,
+          59.30494120844953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vallgatan, bussgatan öppnas för trafik",
+        "description": "Projektet innebär att bussgatan mellan Hagvägen och Universitetsgatan byggs om och öppnas upp för biltrafik.",
+        "type": "Trafikprojekt",
+        "time": "Preliminär byggstart: vår 2018",
+        "owner": "Örebro kommun",
+        "iconColor": "red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.248433351516722,
+          59.256692582957406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kåvivägen, beslut om viktbegränsning",
+        "description": "Det byggs i västra Lillån och Kåvivägen tar skada av den ökade tunga trafiken. Örebro kommun har därför beslutat om lokala trafikföreskrifter om högsta tillåtna bruttovikt.",
+        "type": "Trafikreglering",
+        "effect": "Fordon med en bruttovikt som överstiger 4,0 ton får inte köra på markerade sträckor på Kåvivägen – mellan Tjusebovägen och Nästegårdsvägen",
+        "time": "Beslutet gäller från och med 22 mars 2017 och tillsvidare.",
+        "owner": "Örebro kommun",
+        "iconColor": "red_solid",
+        "iconType": "fa-info"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.207599401473999,
+          59.31985656493676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ändring av färdriktning Norra Strandgatan, Klostergatan",
+        "description": "Förändringen av färdriktning görs för att underlätta av- och påstigning till kvarterets fastigheter. Parkeringar kommer att finnas på utmärkta platser.",
+        "type": "Trafikreglering",
+        "effect": "",
+        "time": "Beräknas vara färdigt i mitten av juni.",
+        "owner": "Örebro kommun",
+        "url": "",
+        "iconColor": "red_solid",
+        "iconType": "fa-info"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.211429595947264,
+          59.274583816677215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Naturum Oset",
+        "description": "Vid Naturens hus, i naturreservatet Oset-Rynningeviken, kommer vi att bygga ett centrum för besökare till ett naturområde – ett naturum.",
+        "type": "Byggprojekt",
+        "time": "En arkitekttävling har genomförts men byggstart för naturum Oset har ännu ej beslutats.",
+        "owner": "Örebro kommun",
+        "url": "",
+        "iconColor": "red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.259301662445068,
+          59.27894416858996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stenbackevägen och Ladugårdsängsparken",
+        "description": "För att den kommande reservoaren ska kunna leverera dricksvatten till hela Örebro behöver vi bygga nya huvudvattenledningar därifrån ner till stadens ledningssystem.",
+        "type": "Byggprojekt",
+        "effect": "Från måndag 22 maj till början av juli kommer Stenbackevägen, från korsningen med Landbotorpsallen till korsningen med Propellervägen, att vara helt avstängd för fordonstrafik.",
+        "time": "måndag 22 maj till början av juli",
+        "owner": "Örebro kommun",
+        "iconColor": "red_solid",
+        "iconType": "fa-warning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.197181701660156,
+          59.253355099681215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glomman, ny vägbro över järnvägen",
+        "description": "Vägbron över järnvägen i Adolfsberg är gammal och i dåligt skick. Den ska därför bytas ut.",
+        "type": "Byggprojekt",
+        "effect": "Under tiden som den nya bron byggs kommer trafiken att ledas om via Hagalundsvägen, Brunnsvägen och Mosåsvägen.",
+        "time": "Vi planerar att påbörja bygget vid midsommar 2017 och vara klara våren 2018.",
+        "owner": "Trafikverket",
+        "url": "http://www.orebro.se/bygga-bo--trafik/trafik--gator/pagaende-gatuarbeten--trafikprojekt/-/lista/2017-05-09-glomman-ny-vagbro-over-jarnvagen.html",
+        "iconColor": "red_solid",
+        "iconType": "fa-warning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.17017185688019,
+          59.24066584125314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Skebäcksbron, breddning",
+        "description": "Projektet innebär en breddning av Skebäcksbron för att möjliggöra dubbelriktad fordonstrafik, gång- och cykelbana på östra sidan samt gångbana på västra sidan.",
+        "type": "Trafikprojekt",
+        "effect": "",
+        "time": "Preliminär byggstart årsskiftet 2017/2018.",
+        "owner": "Örebro kommun",
+        "url": "http://www.orebro.se/bygga-bo--trafik/trafik--gator/pagaende-gatuarbeten--trafikprojekt/-/lista/2016-11-04-skebacksbron-breddning.html",
+        "iconColor": "red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.241816341876982,
+          59.273085930251696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Olaigatan avstängd för biltrafik mellan Storgatan och Slottsgatan sommaren 2017",
+        "description": "Sommaren 2017 prioriteras gaturummet på Olaigatan mellan Storgatan och Slottsgatan om: från en körbana till en yta för ökat stadsliv och vistelse av människor.",
+        "type": "Trafikprojekt",
+        "effect": "På den berörda ytan kommer det att vara förbud mot motorfordonstrafik. Det innebär att motorfordonstrafik hänvisas till alternativa gator i området.",
+        "time": "10 juni- 25 september 2017",
+        "status": "",
+        "owner": "Örebro kommun",
+        "url": "https://www.orebro.se/bygga-bo--trafik/trafik--gator/pagaende-gatuarbeten--trafikprojekt/-/lista/2017-06-09-olaigatan-omprioritering-av-gaturum-mellan-storgatan-och-slottsgatan-sommaren-2017.html",
+        "iconColor": "red_solid",
+        "iconType": "fa-warning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.215262472629545,
+          59.275099085340706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Majorsgatan stängs av – tillfällig väg mellan Höglundagatan och Överstegatan",
+        "description": "",
+        "type": "Trafikprojekt",
+        "effect": "Vecka 2 stängs Majorsgatan av vid Norrbyskolan för att ge plats för utbyggnad av skolan. Den 9 januari öppnas en tillfällig väg från Höglundagatan till Överstegatan och Generalsgatan.",
+        "time": "Tillfällig väg från 9 januari tills Korpralsvägen är färdigbyggd under 2017",
+        "owner": "Örebro kommun",
+        "url": "",
+        "iconColor": "red_solid",
+        "iconType": "fa-warning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.23578941822052,
+          59.28870155019022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Studievägen och Landstormsvägen, ny väg mellan",
+        "description": "Projektet innebär att en ny vägkoppling byggs mellan Studievägen och Landstormsvägen",
+        "type": "Trafikprojekt",
+        "effect": "",
+        "time": "Byggstart under våren/sommaren 2017. Färdigställande sommaren 2017.",
+        "owner": "Örebro kommun",
+        "url": "",
+        "iconColor": "red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.217341184616087,
+          59.25852161550408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Universitetsgatan och Ormestagatan, ny- och ombyggnation av passager",
+        "description": "Ny- och ombyggnation av passager på Universitetsgatan och Ormestagatan. Nybyggnation av gång- och cykelbana på östra sidan av Ormestagatan.",
+        "type": "Trafikprojekt",
+        "effect": "Fordonstrafik på Ormestagatan kommer tidvis att ledas om när arbete pågår med passagerna där och vid byggnationen av gång- och cykelbanan kommer endast en fil vara öppen.Vid byggnation av passagerna kring korsningen Universitetsgatan/Ormestagatan kommer det växelvis vara ett fält öppet för fordons och busstrafik.",
+        "time": "Byggstart vecka 24, planeras vara klart september 2017.",
+        "owner": "Örebro kommun",
+        "url": "",
+        "iconColor": "red_solid",
+        "iconType": "fa-warning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.262316465377806,
+          59.25830498858842
+        ]
+      }
+    }
+  ]
+}
